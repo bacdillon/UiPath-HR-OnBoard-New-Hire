@@ -1,6 +1,6 @@
 # UiPath HR OnBoard New Hire
 
-![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/alfred-bot.jpg)
+![alt text](https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire/blob/main/hr.png)
 
 # INTRODUCTION
 
@@ -30,4 +30,4 @@ Automation program focusing on HR- New Hirer On-boarding, IT- manage, create use
 
 # Process overview of what Alfred will do
 
-https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire.git
+![alt text](https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire/blob/main/Workflow.PNG)

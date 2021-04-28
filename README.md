@@ -17,15 +17,16 @@ George is looking for a new ways that the range of tasks can be automated to bec
 
 # PROJECT OVERVIEW
 
-Pick up HR’s requests ticket information from Email with EXCEL (Employee-Onboard.xlsx) attachment downloaded. 
-Assuming the new onboarding email ID and AD user account was present and has created. 
-Alfred extract Service Request item from ServiceNow
-Update into existing downloaded EXCEL file (Employee-Onboard.xlsx) 
-Read the necessary details from EXCEL file (Employee-Onboard.xlsx) 
-Create the onboarding user account credential which are not Single Sign-On for ServiceNow and ZOHO
-Once the credential account has created, the bot renames the EXCEL file (Completed.xlsx) 
-Moves the updated HR’s EXCEL to Processed folder
-Finally, Alfred sent an email to HR Requestor and cc copy to himself, to notify activities has completed
+1. Pick up HR’s requests ticket information from Email with EXCEL (Employee-Onboard.xlsx) attachment downloaded. 
+2. Assuming the new onboarding email ID and AD user account was present and has created. 
+3. Alfred extract Service Request item from ServiceNow
+4. Update into existing downloaded EXCEL file (Employee-Onboard.xlsx) 
+5. Read the necessary details from EXCEL file (Employee-Onboard.xlsx) 
+6. Create the onboarding user account credential which are not Single Sign-On for ServiceNow and ZOHO
+7. Once the credential account has created, the bot renames the EXCEL file (Completed.xlsx) 
+8. Moves the updated HR’s EXCEL to Processed folder
+9. Finally, Alfred sent an email to HR Requestor and cc copy to himself, to notify activities has completed
+
 Automation program focusing on HR- New Hirer On-boarding, IT- manage, create user account credentials, approach was to start small while planning to scale for the future to purchase IT equipment and Finance processes
 
 # Process overview of what Alfred will do

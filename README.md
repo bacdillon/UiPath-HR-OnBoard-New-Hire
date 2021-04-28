@@ -1,6 +1,6 @@
 # UiPath HR OnBoard New Hire
 
-https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire.git
+![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/alfred-bot.jpg)
 
 # INTRODUCTION
 

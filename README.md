@@ -20,6 +20,4 @@ George is looking for a new ways that the range of tasks can be automated to bec
 
 # PROJECT OVERVIEW
 
-# Process overview of what Alfred will do
-
 ![alt text](https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire/blob/main/Workflow.PNG)
